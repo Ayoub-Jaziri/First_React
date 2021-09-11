@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,300&family=Source+Code+Pro:wght@300&display=swap");
+h1 {
+  color: rgb(27, 100, 184);
+  margin-left: 100px;
+}
+
+p {
+  font-family: "Source Code Pro", monospace;
+  margin-left: 50px;
+  max-width: 50%;
+}
+
+img {
+  width: 40%;
+  height: 50%;
+  display: flex;
+  position: absolute;
+  margin-left: 58%;
+  top: 100px;
+}
+
+#orm {
+  width: 170vh;
+  margin-left: 50px;
+}
